@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mountvernonplumbingteam.com/sitemap.xml
